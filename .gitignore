@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# MacOS files
+.DS_Store
+
+# GitBook build files
+_book/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+.cache/
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
